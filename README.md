@@ -1,4 +1,4 @@
-# Encoder
+# Encryptor
 Basic implementation of public-key cryptography using the Java programming environment 
 
 For use, generate new set of keys for yourself. 
