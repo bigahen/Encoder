@@ -15,7 +15,7 @@ public class EncryptionUI extends JFrame{
 	private JTextArea messageInput = new JTextArea();
 	private JTextField privateKeyInput = new JTextField("");
 	private JTextField publicKeyInput = new JTextField("");
-	private JFrame frame = new JFrame("Dual Key Encoder");
+	private JFrame frame = new JFrame("Dual Key Encryptor");
 	private Font myFont = new Font("My Font",Font.PLAIN,16);
 	
 	public EncryptionUI(){//Builds UI and adds action listeners to buttons
